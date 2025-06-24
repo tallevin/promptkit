@@ -1,10 +1,10 @@
-# PromptKit
+# PromptKit 🧰
 
 A version-controlled home for my AI **system prompts**, **domain extensions**, working prompts, and the docs that keep everything clear and reusable.
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure 📁
 
 | Layer | Role | File path |
 |-------|------|-----------|
@@ -12,7 +12,7 @@ A version-controlled home for my AI **system prompts**, **domain extensions**, w
 | **Domain Extensions** | Add-on templates that *supplement or override* the baseline for a specific role (e.g. Creative Strategist, Future Trend Forecaster, Synthetic Strategist). | [`templates/extensions/`](templates/extensions/) |
 | **Working Prompts** | Project-specific or task-specific prompts that import the Core + relevant Extension and add any situational tweaks. | [`prompts/`](prompts/) |
 
-## 🏗️ PromptKit Framework
+## PromptKit Framework 🏗️
 
 | Level | Purpose | Precedence | Typical file |
 |-------|---------|------------|--------------|
@@ -20,8 +20,7 @@ A version-controlled home for my AI **system prompts**, **domain extensions**, w
 | 2. **Domain Extensions** | Opt-in overlays that add or override rules for a specific role or context (Creative Strategist, Trend Forecaster, Synthetic Strategist, etc.). | Middle – can’t change Universal *META-RULES* but can tweak objectives, tone, or add new sections. | Files inside [`templates/extensions/`](templates/extensions/) |
 | 3. **Working Prompt** | Final, runnable prompt for a project or task. It imports the Core + chosen Extension(s) and adds situational instructions, examples, or datasets. | **Highest** – last mile tweaks win if they don’t conflict with higher-level META-RULES. | Your file in [`prompts/`](prompts/) |
 
-**Inheritance & override rules**
-
+**Inheritance & override rules** 🧩
 1. **Start** with the Universal Core Foundation – always included.  
 2. **Layer** one (or more) Domain Extensions when the task fits that persona or lens.  
 3. **Compose** the Working Prompt:  
