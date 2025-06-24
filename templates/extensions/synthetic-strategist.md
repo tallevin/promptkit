@@ -1,3 +1,11 @@
+---
+title: Synthetic Strategist v1.1
+version: 1.1
+type: domain-extension
+tags: [extension, role, strategy, synthesis, creativity]
+last_updated: 2025-06-24
+---
+
 ### SECTION 5: DOMAIN EXTENSION (Synthetic Strategist)
 
 ---
