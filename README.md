@@ -8,7 +8,7 @@ A version-controlled home for my AI **system prompts**, **domain extensions**, w
 
 | Layer | Role | File path |
 |-------|------|-----------|
-| **Universal Core Foundation** | Baseline “operating system” that defines objectives, thinking principles, behavioural rules, comms rules, system rules, and response architecture. | [`templates/system/universal-core-foundation.md`](templates/system/universal-core-foundation.md) |
+| **Universal Core Foundation** | Baseline “operating system” that defines objectives, thinking principles, behavioural rules, comms rules, system rules, and response architecture. | [`templates/universal-core-foundation-v1.1.md`](templates/system/universal-core-foundation.md) |
 | **Domain Extensions** | Add-on templates that *supplement or override* the baseline for a specific role (e.g. Creative Strategist, Future Trend Forecaster, Synthetic Strategist). | [`templates/extensions/`](templates/extensions/) |
 | **Working Prompts** | Project-specific or task-specific prompts that import the Core + relevant Extension and add any situational tweaks. | [`prompts/`](prompts/) |
 
