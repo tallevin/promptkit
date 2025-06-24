@@ -6,11 +6,13 @@ Nothing here is executed directly; each file is a foundation.
 ## Structure
 
 templates/
-universal-core-foundation # core governance and meta-prompts
-↳ extensions/ # domain-specific add-ons
-↳ creative-strategist.md
-↳ future-trend-forecaster.md
-↳ etc
+-  universal-core-foundation  # core governance and meta-prompts  
+  - extensions/  
+    - domain-specific add-ons  
+      - creative-strategist.md  
+      - future-trend-forecaster.md  
+      - etc  
+
 
 | Sub-folder | Purpose |
 |------------|---------|
