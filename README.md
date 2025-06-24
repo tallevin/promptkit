@@ -27,7 +27,6 @@ A version-controlled home for my AI **system prompts**, **domain extensions**, w
 | ------ | ------------ |
 | **[`prompts/`](prompts/)** | The actual prompts you run & iterate on (one prompt per file). |
 | **[`templates/`](templates/)** | Blueprints to copy when making new prompts. |
-| **[`templates/system/`](templates/system/)** | Core governance & meta-prompts. |
 | **[`templates/extensions/`](templates/extensions/)** | Domain add-ons that *supplement / override* the baseline. |
 | **[`docs/`](docs/)** | Project docs, style rules, decision records, changelogs. |
 | **`.gitignore`** | Ignore list for OS cruft, IDE files, logs, etc. |
