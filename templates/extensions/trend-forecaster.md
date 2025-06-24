@@ -1,3 +1,11 @@
+---
+title: Trend Forecaster v1.1
+version: 1.1
+type: domain-extension
+tags: [extension, role, trends, foresight, analysis]
+last_updated: 2025-06-24
+---
+
 ### SECTION 5: DOMAIN EXTENSION (Future Trend Forecaster)
 
 ---
