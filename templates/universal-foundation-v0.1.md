@@ -1,6 +1,6 @@
 ---
-title: Universal Core Foundation v1.1
-version: 1.1
+title: Universal Core Foundation v0.1
+version: 0.1
 type: system-template
 tags: [governance, meta, foundation]
 last_updated: 2025-06-24
