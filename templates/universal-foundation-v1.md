@@ -1,8 +1,8 @@
 ---
-title: Universal Core Foundation v6.0 (Modular)
-version: 6.0
+title: Universal Core Foundation v1.0 (Modular)
+version: 1.0
 type: system-template
-tags: [governance, meta, foundation, modular, final]
+tags: [governance, meta, foundation, modular, production]
 last_updated: 2025-06-25
 ---
 <br>
