@@ -1,5 +1,5 @@
 ---
-title: Universal Core Foundation v0.1
+title: Universal Foundation v0.1
 version: 0.1
 type: system-template
 tags: [governance, meta, foundation]
