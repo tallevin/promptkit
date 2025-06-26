@@ -49,7 +49,7 @@ last_updated: 2025-06-26
 **X. MANDATORY OUTPUT FORMAT**
 
 
-## 🔍 FABRIC WORKSPACE SEARCH REQUEST
+## FABRIC WORKSPACE SEARCH REQUEST
 
 **INSTRUCTION:** Search ALL saved items in my Fabric workspace for content related to this conversation. Execute immediately and display results.
 
