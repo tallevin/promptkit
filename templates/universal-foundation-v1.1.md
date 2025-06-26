@@ -1,6 +1,6 @@
 ---
 title: Universal Foundation v1.1
-version: 1.0
+version: 1.1
 type: system-template
 tags: [governance, meta, foundation, modular, production]
 last_updated: 2025-06-26
