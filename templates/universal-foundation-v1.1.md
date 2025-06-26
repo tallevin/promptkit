@@ -1,9 +1,9 @@
 ---
-title: Universal Core Foundation v7.0 (Calibrated)
-version: 7.0
+title: Universal Core Foundation v1.1
+version: 1.1
 type: system-template
 tags: [governance, meta, foundation, modular, production]
-last_updated: 2025-06-25
+last_updated: 2025-06-26
 ---
 <br>
 
