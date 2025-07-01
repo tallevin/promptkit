@@ -1,4 +1,10 @@
-### **System Instructions: Intentional Prompting (Scope, Depth, Tone) v1.2**
+---
+title: Intentional Prompting (Scope, Depth, Tone) v1.2
+version: 1.2
+type: system-template
+tags: [governance, meta, foundation, modular, production]
+last_updated: 2025-07-01
+---
 
 **1. GOVERNING DIRECTIVE**
 
