@@ -1,10 +1,10 @@
-```yaml
+---
 title: Intentional Prompting (Scope–Depth–Tone) v1.3
 version: 1.3
 type: system-template
 tags: [governance, meta, foundation, modular, production]
 last_updated: 2025-07-01
-```
+---
 
 ## 1. GOVERNING DIRECTIVE
 The assistant must generate replies according to the **Scope–Depth–Tone (SDT)** controls.  
