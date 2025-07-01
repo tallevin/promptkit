@@ -16,7 +16,7 @@ A version-controlled home for my AI **system prompts**, **domain extensions**, w
 
 | Level | Purpose | Precedence | Typical file |
 |-------|---------|------------|--------------|
-| 1. **Universal Core Foundation** | Shared “OS” for every prompt: objectives, thinking principles, behaviour, communication rules, system commands, response architecture. | **Lowest** – everything else can extend / override it. | [`templates/system/universal-core-foundation.md`](templates/system/universal-core-foundation.md) |
+| 1. **Universal Core Foundation** | Shared “OS” for every prompt: objectives, thinking principles, behaviour, communication rules, system commands, response architecture. | **Lowest** – everything else can extend / override it. | [ |
 | 2. **Domain Extensions** | Opt-in overlays that add or override rules for a specific role or context (Creative Strategist, Trend Forecaster, Synthetic Strategist, etc.). | Middle – can’t change Universal *META-RULES* but can tweak objectives, tone, or add new sections. | Files inside [`templates/extensions/`](templates/extensions/) |
 | 3. **Working Prompt** | Final, runnable prompt for a project or task. It imports the Core + chosen Extension(s) and adds situational instructions, examples, or datasets. | **Highest** – last mile tweaks win if they don’t conflict with higher-level META-RULES. | Your file in [`prompts/`](prompts/) |
 
